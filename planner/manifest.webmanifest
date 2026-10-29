@@ -1,0 +1,25 @@
+{
+  "id": "/my-money-planner/planner/",
+  "name": "My Money Planner 💗",
+  "short_name": "Money Planner",
+  "description": "Al jouw geldzaken op één plek. Grip op je geld, rust in je hoofd.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff2f7",
+  "theme_color": "#ae316f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
